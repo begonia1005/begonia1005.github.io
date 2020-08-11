@@ -1,44 +1,35 @@
-This repository is no longer maintained. 
-============
+# NexT
 
-Herring Cove
-============
+> 精于心，简于形
 
-Herring Cove is a clean and responsive theme for Jekyll. 
+NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
+
+<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
+
+[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
 
 
-### Overview 
+## 浏览器支持 Browser support
 
-* Fixed Sidebar with social links
-* Minimal design 
-* Comments by Disqus
-* Social Sharing abilities 
-* Easy to configure
-* Based on Bootstrap
+![Browser support](http://iissnan.com/nexus/next/browser-support.png)
 
-### Screenshots
 
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
+## 贡献 Contributing
 
-### Setup
+欢迎提交问题与需求，修复代码。
 
-1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
-3. Edit the `_config.yml` file
 
-You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
+## 开发 Development
 
-### Download
+NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
 
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
+NexT is built for easily use with elegant appearance. First things first, always keep things simple.
 
-### License
-* [MIT](http://opensource.org/licenses/MIT)
 
--------------
-Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
+## 捐赠
 
-*What's with the name?*
+支付宝捐赠链接还是要有的，万一真的有人捐呢。
 
-[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
+![支付宝扫码捐赠](http://7lryc0.com1.z0.glb.clouddn.com/a6x049034plyvjm1rvn4h28%20%281%29.png)
